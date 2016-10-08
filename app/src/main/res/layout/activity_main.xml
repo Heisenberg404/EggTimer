@@ -27,7 +27,8 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_marginTop="28dp"
-        android:id="@+id/seekBar" />
+        android:id="@+id/seekBar"
+        />
 
     <TextView
         android:text="00:30"
